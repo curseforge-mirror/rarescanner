@@ -34,7 +34,7 @@ jobs:
       run: python main.py
       env:
         ADDON_NAME: rarescanner
-        ADDON_ID: 
+        ADDON_ID: 84208
         SCRAPER_API_KEY: ${{ env.SCRAPER_API_KEY }}
         CF_API_TOKEN: ${{ env.CF_API_TOKEN }}
 
