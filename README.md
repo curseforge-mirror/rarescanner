@@ -1,6 +1,6 @@
-#  Mirror
+# RareScanner Mirror
 
-This is a mirror of 's 
+This is a mirror of maqjav's RareScanner
 
 - [Curseforge URL](https://www.curseforge.com/wow/addons/rarescanner)
 
